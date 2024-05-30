@@ -32,11 +32,6 @@
   </a>
 </p>
 
-<a> 
-    <a href="https://github.com/jaychavada01"><img alt="Jay's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=jaychavada01&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="190px" width="49.5%"/></a>
-  <a href="https://github.com/jaychavada01"><img alt="Jay's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=jaychavada01&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="190px" width="49.5%"/></a>
-</a>
-
 ![Jay's Graph](https://github-readme-activity-graph.vercel.app/graph?username=jaychavada01&custom_title=Jay%20Chavada's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <hr/>
