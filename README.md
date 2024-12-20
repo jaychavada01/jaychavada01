@@ -54,7 +54,7 @@
 
 <p align="center">
   <a href="https://github.com/jaychavada01">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaychavada01&theme=tokyonight" alt="Parth's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaychavada01&theme=tokyonight" alt="Jay's GitHub streak"/>
   </a>
 </p>
 
